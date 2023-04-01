@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--================ Basic page needs ================-->
+    <title>Yummi | Menu v1</title>
+    <meta charset="UTF-8" />
+    <meta name="author" content="" />
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <!--================ Mobile specific metas ================-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!--================ Google web fonts ================-->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lily+Script+One&display=swap"
+      rel="stylesheet"
+    />
+    <!--================ Vendor CSS ================-->
+    <link rel="stylesheet" href="css/fontawesome-all.min.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Material+Icons%7CMaterial+Icons+Outlined%7CMaterial+Icons+Two+Tone%7CMaterial+Icons+Round%7CMaterial+Icons+Sharp"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/animate.min.css" />
+    <link rel="stylesheet" href="css/linearicons.css" />
+    <link
+      rel="stylesheet"
+      href="vendors/arcticmodal/jquery.arcticmodal-0.3.css"
+    />
+    <!--================ Theme CSS ================-->
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/responsive.css" />
+    <!--================ Vendor JS ================-->
+  </head>
+  <body>
+    <div class="mad-preloader"></div>
+    <div id="mad-page-wrapper" class="mad-page-wrapper">
+      <!--================ Search Modal ================-->
+      <div class="mad-d-none">
+        <div id="search-modal" class="mad-modal mad-modal--search">
+          <button type="button" class="arcticmodal-close">
+            <i class="material-icons">close</i>
+          </button>
+          <h4 class="mad-title">Search</h4>
+          <!--================ Search Form ================-->
+          <form role="search" method="get" class="mad-searchform">
+            <input type="text" name="s" placeholder="Type your keyword here" />
+            <button type="submit" class="btn btn-style-3">
+              <i class="material-icons">search</i>
+            </button>
+          </form>
+          <!--================ End of Search Form ================-->
+        </div>
+      </div>
+      <!--================ End of Search Modal ================-->
+      <!--================ Header ================-->
+      <header id="mad-header" class="mad-header">
+        <div class="mad-pre-header">
+          <div class="mad-our-info">
+            <div class="mad-info">
+              <i class="material-icons-outlined">location_on</i>
+              <span>Bulevardi "Elez Isufi", Turizmi i Vjeter</span>
+            </div>
+            <div class="mad-info">
+              <i class="material-icons">access_time</i>
+              <span>Hënë - Diel: 9am - 11pm</span>
+            </div>
+          </div>
+        </div>
+        <div class="mad-header-section--sticky-xl">
+          <div class="mad-header-items">
+            <div class="mad-header-item">
+              <a href="index.html" class="mad-logo">
+                <span
+                  style="
+                    font-family: 'Lily Script One', cursive;
+                    font-size: 66px;
+                    color: #fff;
+                    margin-top: 20px;
+                    display: block;
+                  "
+                  >Nepsli</span
+                >
+              </a>
+            </div>
+            <!--================ Navigation ================-->
+            <nav class="mad-navigation-container">
+              <ul class="mad-navigation mad-navigation--vertical-sm">
+                <li class="menu-item menu-item-has-children">
+                  <a href="./index.html">Home</a>
+                </li>
+                <li class="menu-item menu-item-has-children current-menu-item">
+                  <a href="./menu.html">Menu</a>
+                </li>
+              </ul>
+            </nav>
+            <!--================ End of Navigation ================-->
+            <div class="mad-header-item">
+              <div class="mad-our-info type-2">
+                <div class="mad-info">
+                  <i class="material-icons-outlined">call</i>
+                  <div class="mad-info-content">
+                    <span>Telefono për porosi</span>
+                    <a href="tel:067 23 11 555">
+                      <div class="mad-info-title">067 23 11 555</div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+      <!--================ End of Header ================-->
+      <div class="mad-content no-pd">
+        <div class="container">
+          <div class="mad-section" style="padding-top: 3rem">
+            <!--================ Tabs ================-->
+            <div class="mad-tabs">
+              <!--================ Tabs Container ================-->
+              <div class="mad-tabs-container">
+                <!--================ Tab ================-->
+                <div
+                  id="tab-1"
+                  tabindex="0"
+                  role="tabpanel"
+                  aria-labelledby="tab-1-link"
+                  class="mad-tab"
+                >
+                  <div class="mad-specs-section" id="products"></div>
+                </div>
+                <!--================ End of Tab ================-->
+              </div>
+              <!--================ End of Tabs Container ================-->
+            </div>
+            <!--================ End of Tabs ================-->
+          </div>
+          <article
+            class="mad-cta mad-section text-color-1 align-center mad-section--stretched mad-colorizer--scheme-color-3"
+          >
+            <div class="content-element-6">
+              <h2 class="mad-page-title">
+                Shijoni Shijen e Vërtetë të Ushqimit
+              </h2>
+              <p>
+                Vestibulum libero nisl, porta vel, scelerisque eget, malesuada
+                at, neque. Vivamus <br />
+                eget nibh. Etiam cursus leo vel metus. Nulla facilisi.
+              </p>
+            </div>
+            <div class="btn-set big-btns justify-content-center">
+              <a href="tel:0672311555" class="btn btn-huge"
+                ><span>Telefono tani</span></a
+              >
+            </div>
+          </article>
+        </div>
+      </div>
+      <!--================ Footer ================-->
+      <footer id="mad-footer" class="mad-footer">
+        <div class="mad-footer-top">
+          <div class="container">
+            <!--================ Icon Boxes ================-->
+            <div class="mad-icon-boxes style-4 hr-type item-col-4">
+              <div class="mad-col">
+                <!--================ Icon Box ================-->
+                <article class="mad-icon-box">
+                  <i class="mad-icon-box-icon"
+                    ><img class="svg" src="yummi_svg_icons/quality.svg" alt=""
+                  /></i>
+                  <div class="mad-icon-box-content">
+                    <h6 class="mad-icon-box-title">Cilesi e pare</h6>
+                  </div>
+                </article>
+                <!--================ End of Icon Box ================-->
+              </div>
+              <div class="mad-col">
+                <!--================ Icon Box ================-->
+                <article class="mad-icon-box">
+                  <i class="mad-icon-box-icon"
+                    ><img class="svg" src="yummi_svg_icons/fresh.svg" alt=""
+                  /></i>
+                  <div class="mad-icon-box-content">
+                    <h6 class="mad-icon-box-title">
+                      Gjithmonë <br />
+                      Të freskëta
+                    </h6>
+                  </div>
+                </article>
+                <!--================ End of Icon Box ================-->
+              </div>
+              <div class="mad-col">
+                <!--================ Icon Box ================-->
+                <article class="mad-icon-box">
+                  <i class="mad-icon-box-icon"
+                    ><img class="svg" src="yummi_svg_icons/dish.svg" alt=""
+                  /></i>
+                  <div class="mad-icon-box-content">
+                    <h6 class="mad-icon-box-title">
+                      Shumëllojshmëri <br />
+                      ushqimesh
+                    </h6>
+                  </div>
+                </article>
+                <!--================ End of Icon Box ================-->
+              </div>
+              <div class="mad-col">
+                <!--================ Icon Box ================-->
+                <article class="mad-icon-box">
+                  <i class="mad-icon-box-icon"
+                    ><img class="svg" src="yummi_svg_icons/delivery.svg" alt=""
+                  /></i>
+                  <div class="mad-icon-box-content">
+                    <h6 class="mad-icon-box-title">
+                      Dorëzim <br />
+                      i shpejtë
+                    </h6>
+                  </div>
+                </article>
+                <!--================ End of Icon Box ================-->
+              </div>
+            </div>
+            <!--================ End of Icon Boxes ================-->
+          </div>
+        </div>
+        <!--================ Footer row ================-->
+        <div class="mad-footer-main">
+          <div class="container">
+            <div class="row align-items-end vr-size-1">
+              <div class="col-sm-6">
+                <div class="content-element-5">
+                  <a href="#" class="mad-logo"
+                    ><img src="images/logo2.png" alt=""
+                  /></a>
+                </div>
+                <p class="copyrights">
+                  Copyright © 2021 Nepsli. Të drejtat e rezervuara.
+                </p>
+              </div>
+              <div class="col-sm-6">
+                <div class="mad-social-icons size-big content-element-5">
+                  <ul>
+                    <li>
+                      <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    </li>
+                    <li>
+                      <a href="#"><i class="fab fa-twitter"></i></a>
+                    </li>
+                    <li>
+                      <a href="#"><i class="fab fa-instagram"></i></a>
+                    </li>
+                    <li>
+                      <a href="#"><i class="fab fa-tripadvisor"></i></a>
+                    </li>
+                    <li>
+                      <a href="#"><i class="fab fa-youtube"></i></a>
+                    </li>
+                    <li>
+                      <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="mad-hr-list">
+                  <ul>
+                    <li><a href="#" class="mad-link">Rreth Nesh</a></li>
+                    <li><a href="#" class="mad-link">Menu</a></li>
+                    <li><a href="#" class="mad-link">Gift Cards</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--================ End of Footer row ================-->
+      </footer>
+      <!--================ End of Footer ================-->
+    </div>
+    <script src="vendors/modernizr.js"></script>
+    <script src="vendors/jquery-3.3.1.min.js"></script>
+    <script src="vendors/jquery.easing.1.3.min.js"></script>
+    <script src="vendors/jquery.parallax-1.1.3.min.js"></script>
+    <script src="vendors/monkeysan.accordion.js"></script>
+    <script src="vendors/monkeysan.jquery.nav.1.0.min.js"></script>
+    <script src="vendors/monkeysan.validator.min.js"></script>
+    <script src="vendors/handlebars-v4.0.5.min.js"></script>
+    <script src="vendors/monkeysan.validator.min.js"></script>
+    <script src="vendors/monkeysan.tabs.min.js"></script>
+    <script src="vendors/arcticmodal/jquery.arcticmodal-0.3.min.js"></script>
+    <script src="vendors/retina.min.js"></script>
+    <script src="js/modules/mad.alert-box.min.js"></script>
+    <script src="js/modules/mad.newsletter-form.min.js"></script>
+    <script src="js/modules/mad.sticky-header-section.min.js"></script>
+    <script src="js/mad.app.js"></script>
+    <script src="js/menu.js"></script>
+  </body>
+</html>

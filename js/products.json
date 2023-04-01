@@ -1,0 +1,505 @@
+[
+  {
+    "categoryName": "Gjiro , Doner & Dyrym",
+    "categoryImage": "images/gyro.jpg",
+    "menuItem": [
+      {
+        "name": "Sufllaqe Pule",
+        "description": "Gjiro pule , patate , salce kosi , qepe , sallate jeshile , domate.",
+        "price": 180
+      },
+      {
+        "name": "Sufllaqe Vici",
+        "description": "Gjiro vici , patate , salce kosi , qepe , sallate jeshile , domate.",
+        "price": 220
+      },
+      {
+        "name": "Sufllaqe dopio Pule",
+        "description": "",
+        "price": 300
+      },
+      {
+        "name": "Sufllaqe dopio Vici",
+        "description": "",
+        "price": 350
+      },
+      {
+        "name": "Sufllaqe suxhuk vendi",
+        "description": "Suxhuk vendi , patate , salce kosi , qepe , sallate jeshile , domate.",
+        "price": 180
+      },
+      {
+        "name": "Sufllaqe Deti",
+        "description": "Karkalec ,kallamar, patate , andaluzian sos , qepe , ullinj, domate.",
+        "price": 350
+      },
+      {
+        "name": "Doner Pule",
+        "description": "Gjiro pule , patate , salce kosi , qepe , sallate jeshile , domate.",
+        "price": 180
+      },
+      {
+        "name": "Doner vici",
+        "description": "Gjiro vici , patate , salce kosi , qepe , sallate jeshile , domate.",
+        "price": 220
+      },
+      {
+        "name": "Doner Deti",
+        "description": "Karkalec ,kallamar, patate , andaluzian sos , qepe , ullinj, domate.",
+        "price": 350
+      },
+      {
+        "name": "Dyrym Pule",
+        "description": "Gjiro pule , patate , salce kosi , qepe , sallate jeshile , domate.",
+        "price": 200
+      },
+      {
+        "name": "Dyrym Vici",
+        "description": "Gjiro vici , patate , salce kosi , qepe , sallate jeshile , domate.",
+        "price": 240
+      }
+    ]
+  },
+  {
+    "categoryName": "Hamburgers",
+    "categoryImage": "images/burger.jpg",
+    "menuItem": [
+      {
+        "name": "Thjeshte Burger",
+        "description": "Qofte vici , patate , sallate , kastravec , sos , domate.",
+        "price": 120
+      },
+      {
+        "name": "Big Burger",
+        "description": "Burger  , patate , sallate , kastravec turshi , sos ,qepe , domate.",
+        "price": 200
+      },
+      {
+        "name": "Hot Burger",
+        "description": "Chorizo pikant , patate , salade , salce kosi , spec djeges , domate.",
+        "price": 220
+      },
+      {
+        "name": "Cheese Burger",
+        "description": "Burger  , patate , sallate , mozarella , pecorino , sos ,qepe , domate.",
+        "price": 220
+      },
+      {
+        "name": "Nepsli Burger",
+        "description": "100gr Ham , patate , sallate , mozarella , sos ,qepe , domate.",
+        "price": 300
+      },
+      {
+        "name": "Chicken Nuget Burger",
+        "description": "Katolete pule  , patate , sallate , andaluzian sos , qepe , domate.",
+        "price": 300
+      },
+      {
+        "name": "Beef Burger",
+        "description": "Fileto vici , patate , sallate , pizzajol sos , kastravec ,qepe , domate .",
+        "price": 350
+      },
+      {
+        "name": "Fish Burger",
+        "description": "Fileto peshku , patate , salade , seafood sos , domate , pepe e karamelizuar.",
+        "price": 450
+      }
+    ]
+  },
+  {
+    "categoryName": "Byrek & Pita",
+    "categoryImage": "images/pita.jpg",
+    "menuItem": [
+      {
+        "name": "Byrek Kolle mish Vici",
+        "description": "",
+        "price": 130
+      },
+      {
+        "name": "Byrek Kolle Gjize",
+        "description": "",
+        "price": 110
+      },
+      {
+        "name": "Byrecka (Mish Vici & Domate)",
+        "description": "",
+        "price": 130
+      },
+      {
+        "name": "Byrecka me Gjize",
+        "description": "",
+        "price": 110
+      },
+      {
+        "name": "Byrecka me Qepe",
+        "description": "",
+        "price": 110
+      },
+      {
+        "name": "Pite Arabe",
+        "description": "Mish Pule ose Vici , patate , arab sos , curry , spec , domate.",
+        "price": 250
+      },
+      {
+        "name": "Party pita (per 2/3 persona)",
+        "description": "Mish pule 350 gr …patate , arab sos , curry sos , qepe, spec ,domate.",
+        "price": 600
+      }
+    ]
+  },
+  {
+    "categoryName": "Pizza",
+    "categoryImage": "images/pizza.jpg",
+    "menuItem": [
+      {
+        "name": "Margharita",
+        "description": "classic cheese , mozzarella.",
+        "price": 300
+      },
+      {
+        "name": "Pepperoni",
+        "description": "bazë domatesh me sallam pikant , mozzarella.",
+        "price": 400
+      },
+      {
+        "name": "Vegjetariane ",
+        "description": "Spece , qepë e kuqe , kërpudhë , ullinj.",
+        "price": 350
+      },
+      {
+        "name": "Proshutë",
+        "description": "bazë donates , proshutë , spec, mozzarella.",
+        "price": 400
+      },
+      {
+        "name": "Calzone ",
+        "description": "bazë donates , proshute , mozzarella.",
+        "price": 300
+      },
+      {
+        "name": "4 Djathrat ",
+        "description": "mozzarella , parmigiano reggiano , pecorino , gorgonzola.",
+        "price": 500
+      },
+      {
+        "name": "4 Stinët ",
+        "description": "base domatesh , kërpudhe , ton , proshute , mozarella.",
+        "price": 400
+      },
+      {
+        "name": "Bolognese ",
+        "description": "Ragu bolonjeze , ullinj , mozzarella.",
+        "price": 500
+      },
+      {
+        "name": "Chicken ",
+        "description": "fileto pule e tymosur , base domatesh , mozzarella.",
+        "price": 500
+      },
+      {
+        "name": "Fruta Deti",
+        "description": "Base domatesh , karkalec , midhje , sepje , kallamare , mozarella , pecorino.",
+        "price": 700
+      }
+    ]
+  },
+  {
+    "categoryName": "Hot dogs",
+    "categoryImage": "images/hot-dog.jpg",
+    "menuItem": [
+      {
+        "name": "Wuddy ",
+        "description": "Wuddy , patate , qepe te karamelizuar ham sos.",
+        "price": 150
+      },
+      {
+        "name": "Chorizo",
+        "description": "Chorizo salcice , patate , qepe te karamelizuar, ham sos.",
+        "price": 150
+      },
+      {
+        "name": "Cheese hot dog",
+        "description": "Salcice me kackavall , patate , ham sos.",
+        "price": 160
+      },
+      {
+        "name": "Bacon ",
+        "description": "Salcice bacon , patate , qepe te karamelizuar , bacon sos.",
+        "price": 170
+      }
+    ]
+  },
+  {
+    "categoryName": "Sanduiçë",
+    "categoryImage": "images/sandwich.jpg",
+    "menuItem": [
+      {
+        "name": "Thjeshtë Sanduiç",
+        "description": "Proshute viçi , spec , kerpurdhë , kastravec , mozarella , domate.",
+        "price": 120
+      },
+      {
+        "name": "Chicken Sanduiç",
+        "description": "Fileto pule , salva-te , mozarella , spec , domate , mayo.",
+        "price": 180
+      },
+      {
+        "name": "Sanduiç Fshati",
+        "description": "Suxhuk vendi , djath dhie , kastravec , laker.",
+        "price": 150
+      },
+      {
+        "name": "Sanduiç Vegjetarian",
+        "description": "Avocado , sallate , qepe , spec , domate , susam , basil sos.",
+        "price": 150
+      }
+    ]
+  },
+  {
+    "categoryName": "Meat & Grill",
+    "categoryImage": "images/meat.jpg",
+    "menuItem": [
+      {
+        "name": "Fileto Pule",
+        "description": "200 gr fileto pule , patate , xaxiq , pilaf.",
+        "price": 300
+      },
+      {
+        "name": "Shishqebap Pule",
+        "description": "",
+        "price": 150
+      },
+      {
+        "name": "Shishqebap Viçi",
+        "description": "",
+        "price": 220
+      },
+      {
+        "name": "Fileto Viçi",
+        "description": "200 gr fileto Viçi , patate , xaxiq , pilaf .",
+        "price": 500
+      },
+      {
+        "name": "Qofte Shtepie Viçi",
+        "description": "3 cop qofte , panine shtepie , xaxiq.",
+        "price": 200
+      },
+      {
+        "name": "Suxhuk shtëpie",
+        "description": "suxhuk shtëpie , patate , xaxiq , pilaf.",
+        "price": 300
+      },
+      {
+        "name": "Karkalec Zgare",
+        "description": "400 gr karkalec , seafood sos , patate.",
+        "price": 700
+      },
+      {
+        "name": "Peshk Koc",
+        "description": "",
+        "price": 700
+      },
+      {
+        "name": "Levrek ",
+        "description": "",
+        "price": 800
+      },
+      {
+        "name": "Troftë",
+        "description": "",
+        "price": 500
+      }
+    ]
+  },
+  {
+    "categoryName": "Furrë",
+    "categoryImage": "images/oven.jpg",
+    "menuItem": [
+      {
+        "name": "Mish qingji",
+        "description": "",
+        "price": 600
+      },
+      {
+        "name": "Tave Turizmi",
+        "description": "fileto viçi , salce domate shtepie , mozzarella , pecorino.",
+        "price": 600
+      },
+      {
+        "name": "Penne furre",
+        "description": "macaroni penne , proshute mortadella , pana , kerpudhë.",
+        "price": 400
+      },
+      {
+        "name": "Chicken Tava",
+        "description": "pule e tymosur , pana ,kërpudhë , pecorino cheese.",
+        "price": 400
+      },
+      {
+        "name": "Shrimp Tava",
+        "description": "Karkalec dei , pana , parmigiano reggiano.",
+        "price": 600
+      },
+      {
+        "name": "NepsLi Tava",
+        "description": "",
+        "price": 500
+      }
+    ]
+  },
+  {
+    "categoryName": "Sallatë",
+    "categoryImage": "images/salad.jpg",
+    "menuItem": [
+      {
+        "name": "Fshati",
+        "description": "",
+        "price": 220
+      },
+      {
+        "name": "Greke",
+        "description": "",
+        "price": 260
+      },
+      {
+        "name": "Jeshile",
+        "description": "",
+        "price": 200
+      },
+      {
+        "name": "Çezar",
+        "description": "",
+        "price": 360
+      },
+      {
+        "name": "Shopska",
+        "description": "",
+        "price": 250
+      },
+      {
+        "name": "Nepsli sallad",
+        "description": "",
+        "price": 320
+      }
+    ]
+  },
+  {
+    "categoryName": "Pasta",
+    "categoryImage": "images/pasta.jpg",
+    "menuItem": [
+      {
+        "name": "Bolognese",
+        "description": "",
+        "price": 300
+      },
+      {
+        "name": "Hudhër",
+        "description": "",
+        "price": 200
+      },
+      {
+        "name": "Pana & Proshutë",
+        "description": "",
+        "price": 300
+      },
+      {
+        "name": "Carbonara",
+        "description": "",
+        "price": 350
+      },
+      {
+        "name": "Pene Rozë",
+        "description": "",
+        "price": 350
+      },
+      {
+        "name": "Fruta Deti",
+        "description": "",
+        "price": 600
+      }
+    ]
+  },
+  {
+    "categoryName": "Rissotto",
+    "categoryImage": "images/risotto.jpg",
+    "menuItem": [
+      {
+        "name": "Perime",
+        "description": "",
+        "price": 250
+      },
+      {
+        "name": "Krem Kërpudhë",
+        "description": "",
+        "price": 250
+      },
+      {
+        "name": "Pana Proshutë",
+        "description": "",
+        "price": 300
+      },
+      {
+        "name": "Fruta Deti",
+        "description": "",
+        "price": 600
+      }
+    ]
+  },
+  {
+    "categoryName": "Supë",
+    "categoryImage": "images/soup.jpg",
+    "menuItem": [
+      {
+        "name": "Perime",
+        "description": "",
+        "price": 200
+      },
+      {
+        "name": "Krem Pule",
+        "description": "",
+        "price": 250
+      },
+      {
+        "name": "NepsLi",
+        "description": "",
+        "price": 250
+      },
+      {
+        "name": "Paçe Koke",
+        "description": "",
+        "price": 250
+      }
+    ]
+  },
+  {
+    "categoryName": "Kuzhina",
+    "categoryImage": "images/kitchen.jpg",
+    "menuItem": [
+      {
+        "name": "Pilaf",
+        "description": "",
+        "price": 120
+      },
+      {
+        "name": "Veze sy",
+        "description": "",
+        "price": 140
+      },
+      {
+        "name": "Omletë",
+        "description": "",
+        "price": 160
+      },
+      {
+        "name": "Omletë death & Proshutë",
+        "description": "",
+        "price": 250
+      },
+      {
+        "name": "Brusketi ",
+        "description": "",
+        "price": 200
+      }
+    ]
+  }
+]
