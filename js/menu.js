@@ -3,7 +3,6 @@ function fetchMenuItems() {
   fetch('/js/products.json')
     .then((response) => response.json())
     .then((data) => {
-      console.log(data)
       // display menu items
       displayMenuItems(data)
     })
