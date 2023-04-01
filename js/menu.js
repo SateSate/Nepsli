@@ -1,6 +1,6 @@
 // fetch menu items from json file
 function fetchMenuItems() {
-  fetch('/js/products.json')
+  fetch('https://github.com/SateSate/Nepsli/blob/main/js/products.json')
     .then((response) => response.json())
     .then((data) => {
       console.log(data)
